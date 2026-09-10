@@ -7,7 +7,7 @@ about:
   latestVersion: "v10.9.2"
   latestRelease: "v10.9.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:31:22Z
+  collectedAt: 2026-09-10T20:44:58Z
 timeline:
   created: 2015-07-15
   lastCommit: 2023-12-12
@@ -88,7 +88,7 @@ total:
   commit: 839
 ---
 path: /home/runner/.x-repo/github.com/TypeStrong/ts-node
-collectedAt: 2026-09-10T05:31:24Z
+collectedAt: 2026-09-10T20:44:59Z
 loc:
   JavaScript:
     code: 11511
