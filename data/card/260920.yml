@@ -259,4 +259,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
-{"id":133166301,"author":{"login":"blakeembrey","id":1088987,"node_id":"MDQ6VXNlcjEwODg5ODc=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAlTKGc4H7_Td","tag_name":"v10.9.2","target_commitish":"main","name":"Fix `tsconfig.json` file not found","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-12-08T12:04:03Z","updated_at":"2023-12-08T12:06:05Z","published_at":"2023-12-08T12:06:05Z","assets":[],"body":"**Fixed**\r\n\r\n* Fixed `tsconfig.json` file not found on latest TypeScript version (https://github.com/TypeStrong/ts-node/pull/2091)","reactions":{"total_count":18,"+1":2,"-1":0,"laugh":1,"hooray":15,"confused":0,"heart":0,"rocket":0,"eyes":0}}
