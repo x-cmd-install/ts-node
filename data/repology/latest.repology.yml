@@ -1,45 +1,3 @@
-- repo: raspbian_stable
-  subrepo: main
-  srcname: ts-node
-  binnames:
-    - ts-node
-  visiblename: ts-node
-  version: 10.9.2+~cs64.13.20
-  origversion: 10.9.2+~cs64.13.20-2
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - jpuydt@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: ts-node
-  binnames:
-    - ts-node
-  visiblename: ts-node
-  version: 10.9.2+~cs156.6.69
-  origversion: 10.9.2+repack1+~cs156.6.69-1
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - jpuydt@debian.org
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: ts-node
-  binnames:
-    - ts-node
-  visiblename: ts-node
-  version: 10.9.2+~cs64.13.20
-  origversion: 10.9.2+~cs64.13.20-2
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - jpuydt@debian.org
-  categories:
-    - javascript
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: ts-node
@@ -122,20 +80,6 @@
   summary: TypeScript execution and REPL for node.js, with source map support
   licenses:
     - MIT
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: ts-node
-  binnames:
-    - ts-node
-  visiblename: ts-node
-  version: 10.9.1+~cs8.8.29
-  origversion: 10.9.1+~cs8.8.29-1
-  status: outdated
-  maintainers:
-    - pkg-javascript-devel@lists.alioth.debian.org
-    - jpuydt@debian.org
-  categories:
-    - misc
 - repo: debian_11
   subrepo: bullseye/main
   srcname: ts-node
@@ -281,9 +225,9 @@
   srcname: ts-node
   binname: ts-node
   visiblename: ts-node
-  version: 10.9.2
-  origversion: 10.9.2-2
-  status: newest
+  version: 10.9.1
+  origversion: 10.9.1-1
+  status: outdated
   summary: TypeScript execution and REPL for node.js, with source map support
   licenses:
     - MIT
@@ -292,9 +236,9 @@
   srcname: ts-node
   binname: ts-node
   visiblename: ts-node
-  version: 10.9.2
-  origversion: 10.9.2-2
-  status: newest
+  version: 10.9.1
+  origversion: 10.9.1-1
+  status: outdated
   summary: TypeScript execution and REPL for node.js, with source map support
   licenses:
     - MIT
@@ -335,7 +279,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: ts-node
   binnames:
     - ts-node
@@ -349,7 +293,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: ts-node
   binnames:
     - ts-node
@@ -376,6 +320,62 @@
     - jpuydt@debian.org
   categories:
     - javascript
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: ts-node
+  binnames:
+    - ts-node
+  visiblename: ts-node
+  version: 10.9.2+~cs64.13.20
+  origversion: 10.9.2+~cs64.13.20-2
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - jpuydt@debian.org
+  categories:
+    - javascript
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: ts-node
+  binnames:
+    - ts-node
+  visiblename: ts-node
+  version: 10.9.1+~cs8.8.29
+  origversion: 10.9.1+~cs8.8.29-1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - jpuydt@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: ts-node
+  binnames:
+    - ts-node
+  visiblename: ts-node
+  version: 10.9.2+~cs64.13.20
+  origversion: 10.9.2+~cs64.13.20-2
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - jpuydt@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: ts-node
+  binnames:
+    - ts-node
+  visiblename: ts-node
+  version: 10.9.2+~cs156.6.69
+  origversion: 10.9.2+repack1+~cs156.6.69-1
+  status: outdated
+  maintainers:
+    - pkg-javascript-devel@lists.alioth.debian.org
+    - jpuydt@debian.org
+  categories:
+    - misc
 - repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: ts-node
