@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,120 · **Forks**: 548 · **Open issues**: 1,295 · **Contributors**: 114
+- **Stars**: 13,121 · **Forks**: 548 · **Open issues**: 1,295 · **Contributors**: 114
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-08-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-05-16 | 0 | 0 | 1 | 1 | 2 | 0 |
-| 360d | 2025-11-17 | 0 | 0 | 2 | 3 | 4 | 0 |
-| last720d | 2024-11-22 | 0 | 0 | 7 | 6 | 14 | 0 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-15 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-05-17 | 0 | 0 | 1 | 1 | 2 | 0 |
+| 360d | 2025-11-18 | 0 | 0 | 2 | 3 | 4 | 0 |
+| last720d | 2024-11-23 | 0 | 0 | 7 | 6 | 14 | 0 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for ts-node lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:06:01Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:33:02Z._
